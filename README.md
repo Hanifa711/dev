@@ -57,7 +57,7 @@ The app displays each recipe with an image, title, and description in a clean an
 Users can save their favorite food images to their phone and easily share them with friends across other apps. 
 
 **Demo:**  
-- 📱 [Live Demo](https://drive.google.com/file/d/1yu3T5Ozeru5hRk4KxOzVlwOeYq479-Gm/view?usp=sharing)  
+- 📱 [Live Demo](https://drive.google.com/drive/folders/1wevsOS6XFQJ5Wo6E4mKlqRnbUOBxc6Yp?usp=sharing)  
 
 **Features:**  
 
@@ -71,11 +71,6 @@ Users can save their favorite food images to their phone and easily share them w
 
 ⚡ Smooth and responsive experience powered by Flutter
 
-**Preview:**  
-![App Screenshot](assets/screenshot1.png)  
-
-**Tech Stack:**  
-
 
 ---
 
@@ -85,6 +80,9 @@ Users can save their favorite food images to their phone and easily share them w
 A Flutter mobile application that converts spoken words into text in real-time.
 The app supports both Arabic and English, allowing users to dictate speech and instantly see it written in a text field.
 It’s designed for productivity, note-taking, and accessibility.
+
+**Demo:**
+- 📱 [Live Demo](https://drive.google.com/drive/folders/1VDsalsu45FPvNWupCs1Y1Cw8w6GX8I2c?usp=sharing)
 
 
 **Features:**  
@@ -98,16 +96,6 @@ It’s designed for productivity, note-taking, and accessibility.
 
 ⚡ Fast, accurate, and responsive experience built with Flutter
 
-
-**Preview:**  
-![App Screenshot](assets/screenshot2.png)  
-
-**Tech Stack:**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</p>  
-
 ---
 
 ### 🌐 Project 3: AI Face Detection App  
@@ -117,7 +105,7 @@ Users can either select a picture from their phone’s gallery or take a new one
 The app detects faces within the image and highlights them, showcasing the integration of AI and computer vision in Flutter.
 
 **Demo:**  
-- 📲 [Live Demo](https://drive.google.com/file/d/1zJobvSb9JANOu9aK_Mi0s1VM0uaxedu4/view?usp=sharing)  
+- 📲 [Live Demo](https://drive.google.com/drive/folders/1eLeu3W0cYHNv4ESgxHwW_85x5LsS90Ak?usp=sharing)  
 
 **Features:**  
 📸 Import images from the gallery or capture directly with the camera
@@ -130,24 +118,15 @@ The app detects faces within the image and highlights them, showcasing the integ
 
 🛠️ Practical example of integrating machine learning with mobile apps
 
-**Preview:**  
-![Web Screenshot](assets/screenshot3.png)  
-
-**Tech Stack:**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</p>  
-
-
+###
+---
 ### 🌐 Project 4: Note App  
 **Description:**  
 A Flutter note-taking application that uses the Drift package for local database management.
 Users can create, edit, and delete notes with offline storage support, ensuring their data is saved directly on the device without needing the internet.
 
 **Demo:**  
-- 📱 [Live Demo](https://drive.google.com/file/d/1uc53w__2xro8By06rp8rhAMkHC_EcegZ/view?usp=sharing)  
+- 📱 [Live Demo](https://drive.google.com/drive/folders/1zzeHU9FyI_VbKeCcD7YANMEjmEkS2wQ5?usp=sharing)  
 
 **Features:**  
 ✍️ Create and manage personal notes
@@ -160,12 +139,11 @@ Users can create, edit, and delete notes with offline storage support, ensuring 
 
 ⚡ Smooth performance and clean user interface built in Flutter
 
-**Preview:**  
-![Web Screenshot](assets/screenshot3.png)  
+---
 
-**Tech Stack:**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</p>  
+### 🌐 UI Work:
+
+**Pictures:**  
+- 📱 [Live Demo](https://drive.google.com/drive/folders/1r9EP-TGk__2EWx2TRYUKbGXoxdyCKQdH?usp=sharing)  
+
+
